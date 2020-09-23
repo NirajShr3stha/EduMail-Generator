@@ -1,4 +1,5 @@
-![Capture](https://user-images.githubusercontent.com/62610377/93968714-f8847a80-fd89-11ea-9bf7-58bd1e198f56.PNG)
+![Capture](https://i.imgur.com/AXxz2I4.png)
+
 # Edu-Mail-Generator
 Generate Free Edu Mail(s) within minutes
 
