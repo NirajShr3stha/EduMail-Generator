@@ -5,7 +5,6 @@ import random
 ######## use it on your own RISK ########
 ######## I'm not responsible for any loss or damage ########
 ######## caused to you using this script ########
-######## Github Repo - https://git.io/JJisT/ ########
 
 start_url = 'https://www.opencccapply.net/gateway/apply?cccMisCode='
 
