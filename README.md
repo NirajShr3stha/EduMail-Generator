@@ -16,7 +16,7 @@ It will download all required packages and webdrivers automatically based on you
 
 ## ***Usage***
 
-	  Run bot.exe
+	  Run bot.py
 Follow the instructions to get started with generating your own edu mail
 
 ## ***Features***
