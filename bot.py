@@ -22,7 +22,6 @@ from __colors__.colors import *
 ######## use it on your own RISK ########
 ######## I'm not responsible for any loss or damage ########
 ######## caused to you using this script ########
-######## Github Repo - https://git.io/JJisT/ ########
 
 def postFix(n):
     range_start = 10**(n-1)
